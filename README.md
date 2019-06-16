@@ -5,7 +5,6 @@
 
 ## Description
 A web application that takes out that takes the indecision out of your next eat out adventure. Created using C# .NET Core MVC setup with full CRUD functionality.
-![project](landing.png)
 
 ## Table of Contents
   1. [User Stories](#specs-work)
